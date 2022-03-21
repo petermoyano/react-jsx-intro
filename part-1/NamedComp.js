@@ -4,3 +4,4 @@
 function NamedComp({ myName }) {
     return (<p> My name is {myName} </p>);
 };
+s
